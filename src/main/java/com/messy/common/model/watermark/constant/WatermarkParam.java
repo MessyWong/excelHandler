@@ -1,4 +1,4 @@
-package com.bcs.itom.common.model.watermark.constant;
+package com.messy.common.model.watermark.constant;
 
 import java.awt.*;
 

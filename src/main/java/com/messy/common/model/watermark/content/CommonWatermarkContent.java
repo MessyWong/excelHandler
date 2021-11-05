@@ -1,4 +1,4 @@
-package com.bcs.itom.common.model.watermark.content;
+package com.messy.common.model.watermark.content;
 
 import lombok.Data;
 

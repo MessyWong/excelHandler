@@ -1,9 +1,7 @@
-package com.bcs.itom.common.model.util;
+package com.messy.common.model.util;
 
 import com.alibaba.excel.EasyExcel;
-import com.alibaba.excel.metadata.property.ColumnWidthProperty;
-import com.bcs.itom.common.model.entity.ExcelDataEntity;
-import com.bcs.itom.common.model.watermark.handler.ExcelWatermarkHandler;
+import com.messy.common.model.watermark.handler.ExcelWatermarkHandler;
 
 import java.io.FileOutputStream;
 import java.io.IOException;

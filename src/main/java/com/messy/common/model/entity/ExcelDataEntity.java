@@ -1,4 +1,4 @@
-package com.bcs.itom.common.model.entity;
+package com.messy.common.model.entity;
 
 import com.alibaba.excel.annotation.ExcelProperty;
 import lombok.Data;
